@@ -1,6 +1,6 @@
 # Peter Eisenman
 
-*“Architecture, I believe, is necessary to mark collective memory.”*
+#### *“Architecture, I believe, is necessary to mark collective memory.”*
 
 Peter Eisenman (b. 1932) is an American architect, whose architecture is often characterized as Deconstructivist. 
 

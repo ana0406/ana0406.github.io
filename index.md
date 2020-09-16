@@ -10,6 +10,9 @@ with a strong experimental component and constant search for dialog
 between opposites and disciplines apparently unconnected to conventional 
 architecture (for example, philosophy, semantics and linguistics).
 
+> I am not a finisher, I am a starter. 
+> And I am always thinking, what is the next project.
+
 Eisenman rose to fame in the late 1960s as part of the New York Five, a group 
 that shared an interest in the purity of architectural form and besides Eisenman included Charles Gwathmey, 
 John Hejduk, Richard Meier, and Michael Graves. Among his work are House VI in Cornwall, Wexner Center for the Arts 

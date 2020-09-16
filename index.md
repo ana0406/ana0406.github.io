@@ -1,6 +1,6 @@
 # Peter Eisenman
 
-##### *“Architecture, I believe, is necessary to mark collective memory.”*
+*“Architecture, I believe, is necessary to mark collective memory.”*
 
 Peter Eisenman (b. 1932) is an American architect, whose architecture is often characterized as Deconstructivist. 
 
@@ -15,13 +15,15 @@ that shared an interest in the purity of architectural form and besides Eisenman
 John Hejduk, Richard Meier, and Michael Graves. Among his work are House VI in Cornwall, Wexner Center for the Arts 
 in Columbus, Memorial to the Murdered Jews of Europe (The Holocaust Memorial) in Berlin, and the City of Culture of Galicia in Santiago de Compostela.
 
-
 ## Buildings and Works
 
 * Memorial to the Murdered Jews of Europe, Berlin
 * Greater Columbus Convention Center
 * State Farm Stadium
 * City of Culture in Santiago de Compostela
+
+
+
 
 
 

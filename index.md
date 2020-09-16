@@ -2,6 +2,10 @@
 
 *“Architecture, I believe, is necessary to mark collective memory.”*
 
+
+<img src = "https://afasiaarchzine.com/wp-content/uploads/2020/04/Peter-Eisenman-.-Field-of-Otherness.jpg">
+
+
 Peter Eisenman (b. 1932) is an American architect, whose architecture is often characterized as Deconstructivist. 
 
 His architectural and urban planning projects, and above all his long career 
